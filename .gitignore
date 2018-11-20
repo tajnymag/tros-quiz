@@ -1,0 +1,10 @@
+# parcel-bundler files
+.cache/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Node files
+node_modules/
