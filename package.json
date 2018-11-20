@@ -1,23 +1,25 @@
 {
-  "name": "tros-quiz",
-  "version": "1.0.0",
-  "main": "src/index.js",
-  "author": "Marek Lukas",
-  "license": "MIT",
-  "scripts": {
-    "serve": "parcel index.html",
-    "build": "parcel build index.html"
-  },
-  "devDependencies": {
-    "@vue/component-compiler-utils": "^2.3.0",
-    "parcel-bundler": "^1.10.3",
-    "parcel-plugin-clean-dist": "^0.0.6",
-    "typescript": "^3.1.6",
-    "vue-template-compiler": "^2.5.17"
-  },
-  "dependencies": {
-    "bootstrap": "^4.1.3",
-    "vue": "^2.5.17",
-    "vue-hot-reload-api": "^2.3.1"
-  }
+	"name": "tros-quiz",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"author": "Marek Lukas",
+	"license": "MIT",
+	"scripts": {
+		"serve": "parcel index.html",
+		"build": "parcel build index.html",
+		"format": "prettier src/**/* *.js* --write"
+	},
+	"devDependencies": {
+		"@vue/component-compiler-utils": "^2.3.0",
+		"parcel-bundler": "^1.10.3",
+		"parcel-plugin-clean-dist": "^0.0.6",
+		"prettier": "^1.15.2",
+		"typescript": "^3.1.6",
+		"vue-template-compiler": "^2.5.17"
+	},
+	"dependencies": {
+		"bootstrap": "^4.1.3",
+		"vue": "^2.5.17",
+		"vue-hot-reload-api": "^2.3.1"
+	}
 }
