@@ -1,7 +1,7 @@
 import Vue from 'vue';
-import Quiz from './components/Quiz.vue';
+import App from './components/App.vue';
 
 const app = new Vue({
-	el: 'quiz-el',
-	render: h => h(Quiz)
+	el: 'app',
+	render: h => h(App)
 });

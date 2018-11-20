@@ -54,6 +54,7 @@ import { QuestionSet, Question } from '../question-set.ts';
 import { deserializeMap } from '../utiliy.ts';
 
 export default Vue.extend({
+	name: 'Quiz',
 	data() {
 		return {
 			currentQuestion: {
@@ -80,6 +81,7 @@ export default Vue.extend({
 			this.questionSet = new QuestionSet();
 		}
 		this.currentQuestion = this.questionSet.getRandomUnanswered();
+		this.updateProgress();
 	},
 	methods: {
 		resetCurrentAnswer() {
@@ -115,3 +117,10 @@ export default Vue.extend({
 	}
 });
 </script>
+
+<style scoped>
+.card {
+	margin: auto;
+	max-width: 50rem;
+}
+</style>
