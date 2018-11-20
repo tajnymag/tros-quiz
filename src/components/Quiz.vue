@@ -51,6 +51,7 @@
 <script lang="ts">
 import Vue from 'vue';
 import { QuestionSet, Question } from '../question-set.ts';
+import { deserializeMap } from '../utiliy.ts';
 
 export default Vue.extend({
 	data() {
@@ -72,7 +73,12 @@ export default Vue.extend({
 		}
 	},
 	mounted() {
-		this.questionSet = new QuestionSet();
+		if (localStorage.getItem('answeredQuestions')) {
+			const serializedMap = localStorage.getItem('answeredQuestions');
+			this.questionSet = new QuestionSet(deserializeMap(serializedMap));
+		} else {
+			this.questionSet = new QuestionSet();
+		}
 		this.currentQuestion = this.questionSet.getRandomUnanswered();
 	},
 	methods: {
@@ -96,6 +102,7 @@ export default Vue.extend({
 				this.currentQuestion,
 				this.unknown ? false : answeredCorrectly
 			);
+			localStorage.setItem('answeredQuestions', this.questionSet.getSerializedAnswered());
 			this.updateProgress();
 		},
 		updateProgress() {

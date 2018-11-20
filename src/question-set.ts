@@ -1,4 +1,4 @@
-import { randomInteger } from './utiliy';
+import { randomInteger, serializeMap } from './utiliy';
 import listOfQuestions from '../static/otazky.json';
 
 export interface Question {
@@ -10,9 +10,9 @@ export class QuestionSet {
 	private all: Question[];
 	private answered: Map<number, boolean>;
 
-	constructor() {
+	constructor(answered: Map<number, boolean> = new Map()) {
 		this.all = listOfQuestions;
-		this.answered = new Map();
+		this.answered = answered;
 	}
 
 	public getRandomUnanswered(): Question {
@@ -29,6 +29,10 @@ export class QuestionSet {
 			now: this.answered.size,
 			max: this.all.length
 		};
+	}
+
+	public getSerializedAnswered(): string {
+		return serializeMap(this.answered);
 	}
 
 	public setAnswered(question: Question, correctly: boolean): void {
