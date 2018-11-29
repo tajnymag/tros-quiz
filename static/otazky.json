@@ -552,5 +552,77 @@
 		"answer": true
 	},
 	{ "text": "K dílčím rolím manažera patří také role tzv. figurky.", "answer": true },
-	{ "text": "Maticová řídící struktura je vhodná pro řízení projektů.", "answer": true }
+	{ "text": "Maticová řídící struktura je vhodná pro řízení projektů.", "answer": true },
+	{ "text": "Míra volnosti v rozhodování vrcholového pracovníka se blíží 100%", "answer": false },
+	{ "text": "K otázkám delegování patří také, zda delegaci přijmout.", "answer": true },
+	{ "text": "Participace není způsobem vedení lidí.", "answer": false },
+	{ "text": "K prvkům rozhodovacího procesu patří také podmínky rozhodování.", "answer": true },
+	{
+		"text": "Typ členství v pracovní skupině určíme podle porovnání ukazatelů: status a expanzivnost",
+		"answer": true
+	},
+	{
+		"text": "Proces delegování končí u řídícího pracovníka nižší úrovně řízení.",
+		"answer": true
+	},
+	{
+		"text": "K základním podmínkám žízení patří, že řízený systém musí být schopen a ochoten informaci přijmout.",
+		"answer": true
+	},
+	{ "text": "5editel podniku má větší řídící kapacitu než mistr v dílně.", "answer": false },
+	{
+		"text": "Informace z kontroly plánování jsou základními informacemi pro organizování.",
+		"answer": true
+	},
+	{ "text": "Na objektu našeho zájmu můžeme instalovat více systémů.", "answer": true },
+	{ "text": "Předmětem delegování jsou především koncepční činnosti.", "answer": false },
+	{
+		"text": "Ekonomický subsystém O.S. se zabývá možnou substitucí živé práci stroji.",
+		"answer": true
+	},
+	{ "text": "Stimulace je součástí motivačního procesu.", "answer": true },
+	{
+		"text": "Objektivní výhodou pro řízení je, můžeme-li snížit průměrnou řídící kapacitu managementu.",
+		"answer": false
+	},
+	{
+		"text": "C. P. Alderfer považuje za logické, že růstové potřeby pracovníků se u nich objeví až po té, co jsou uspokojeny jejich potřeby vztahové.",
+		"answer": true
+	},
+	{ "text": "Stimuly se dělí na incentivy a impulsy.", "answer": true },
+	{ "text": "Meritorní stránka rozhodování znamená o čem se rozhoduje.", "answer": true },
+	{
+		"text": "Při rozhodování za podmínek neurčitosti známe konečný počet řešení.",
+		"answer": false
+	},
+	{
+		"text": "Rozdílná stabilita subsystémů O.S. je v nepřímé úměře k jejich kompetencím.",
+		"answer": true
+	},
+	{
+		"text": "Maticová řídící struktura se většinou využívá při řízení projektů.",
+		"answer": true
+	},
+	{ "text": "Max Weber je představitelem školy \"byrokratického řízení\".", "answer": true },
+	{
+		"text": "Management znamená vědní disciplínu, podnikový útvar i socíiální postavení.",
+		"answer": true
+	},
+	{
+		"text": "Za vznikem organizačních stupňů v org. struktuře jsou řídící důvody.",
+		"answer": true
+	},
+	{ "text": "Základní rozdělení stylů řízení je na liberální a byrokratický.", "answer": false },
+	{ "text": "Motivace je nejefektnějším způsobem vedení lidí.", "answer": true },
+	{ "text": "Kontrola kontrolního procesu je duplicitou.", "answer": false },
+	{
+		"text": "Manažeři vyšší úrovně řízení pracují především s externími informacemi.",
+		"answer": true
+	},
+	{ "text": "Zda delegovaný úkol přijmout, k otázkám delegace nepatří.", "answer": false },
+	{ "text": "Jednou z paralelních manažerských funkcí je rozhodování.", "answer": true },
+	{
+		"text": "Práce s informacemi je stádiem procesu řízení ve všech jeho fázích.",
+		"answer": true
+	}
 ]
