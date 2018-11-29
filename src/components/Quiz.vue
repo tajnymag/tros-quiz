@@ -40,10 +40,10 @@
 			}"
 		>
 			<span v-if="correct">Správně</span> <span v-else-if="mistake">Špatně</span>
-			<span v-else-if="unknown"
-				>Spekulativní. Pokud jsi si jist(á) svou odpovědí, pošli mi mail na
-				xlukm014@studenti.czu.cz</span
-			>
+			<span v-else-if="unknown">
+				Spekulativní. Pokud jsi si jist(á) svou odpovědí, pošli mi mail na
+				xlukm014@studenti.czu.cz
+			</span>
 		</div>
 	</div>
 </template>
