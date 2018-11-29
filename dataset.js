@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs');
 const exec = require('child_process').exec;
 const questionsFile = require('./static/otazky.json');
@@ -35,6 +37,11 @@ function reformat() {
 }
 
 if (args[0] === 'add') {
+	if (args.length < 3) {
+		console.error('Zadejte otázku i její pravdivost!');
+		process.exit(1);
+	}
+
 	addQuestion(args[1], toBoolean(args[2]));
 	saveQuestions(questionsFile);
 	reformat();
