@@ -624,5 +624,6 @@
 	{
 		"text": "Práce s informacemi je stádiem procesu řízení ve všech jeho fázích.",
 		"answer": true
-	}
+	},
+	{ "text": "Motivace je nejefektivnějším způsobem vedení lidí.", "answer": false }
 ]
