@@ -625,5 +625,42 @@
 		"text": "Práce s informacemi je stádiem procesu řízení ve všech jeho fázích.",
 		"answer": true
 	},
-	{ "text": "Motivace je nejefektivnějším způsobem vedení lidí.", "answer": false }
+	{ "text": "Motivace je nejefektivnějším způsobem vedení lidí.", "answer": false },
+	{ "text": "K fázím procesu řízení se řadí i delegování.", "answer": true },
+	{ "text": "Informace se týká všech fází procesu řízení.", "answer": true },
+	{
+		"text": "Ke způsobům změn v rozlišovací úrovni v rámci systému patří integrace.",
+		"answer": false
+	},
+	{ "text": "Výrobní podnik je systémem prospektivním a relativně izolovaným.", "answer": false },
+	{ "text": "Míra volnosti v rozhodování vrcholového pracovníka je 100%.", "answer": false },
+	{
+		"text": "S rostoucím počtem sériově zapojených prvků klesá pravděpodobnost přenosu informace.",
+		"answer": true
+	},
+	{ "text": "Organizační stupeň je zároveň organizační jednotkou.", "answer": false },
+	{
+		"text": "Řídící prvky organizačního systému jsou tvořeny lidmi a výrobními prostředky.",
+		"answer": false
+	},
+	{ "text": "Řídící subsystém má větší stabilitu než organizační subsystém.", "answer": false },
+	{
+		"text": "Základními principy racionalizace řídící práce manažera je hospodárnost a rychlost.",
+		"answer": false
+	},
+	{ "text": "Součet kompetencí ekonomického a řídícího subsystému je 0,444.", "answer": true },
+	{ "text": "Projevem disjunktivní sociální skupiny je soutěž.", "answer": true },
+	{ "text": "Pravomoc mezi stupni řízení v procesu delegace nelze přenášet.", "answer": false },
+	{ "text": "K manažerským rolím patří role interdisciplinární.", "answer": false },
+	{
+		"text": "Demokratický styl řízení je hledáním optimální cesty mezi autokratismem a liberalismem.",
+		"answer": true
+	},
+	{ "text": "Řídící informace snižuje entropii u příjemce.", "answer": true },
+	{ "text": "Vůdce je člověkem, disponujícím formální i neformální autoritou.", "answer": false },
+	{
+		"text": "Integrace subsystémů organizačního systému je stále složitější z důvodu jejich rostoucí specializace.",
+		"answer": true
+	},
+	{ "text": "Need for power je faktorem motivační teorie D. McClellanda.", "answer": true }
 ]
