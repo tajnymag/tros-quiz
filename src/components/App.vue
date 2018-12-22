@@ -6,6 +6,7 @@
 			<button class="btn btn-warning" @click="resetSavedAnswers">
 				Reset uložených odpovědí
 			</button>
+			<a class="btn btn-danger" href="mailto:xlukm014@studenti.czu.cz">Našel jsem chybu</a>
 		</nav>
 	</div>
 </template>
