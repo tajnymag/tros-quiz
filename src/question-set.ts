@@ -38,4 +38,17 @@ export class QuestionSet {
 	public setAnswered(question: Question, correctly: boolean): void {
 		this.answered.set(this.all.indexOf(question), correctly);
 	}
+
+	public toCSV(): string {
+		let output = '';
+
+		this.all.forEach((question) => {
+			const text = JSON.stringify(question.text);
+			const answer = (question.answer === true) ? 'ANO' : (question.answer === false) ? 'NE' : 'NEVÍM';
+
+			output +=  `${text}, ${answer}\n`;
+		});
+
+		return output;
+	}
 }
