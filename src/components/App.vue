@@ -8,7 +8,7 @@
 				<b-dropdown-item @click="resetSavedAnswers">
 					Reset uložených odpovědí
 				</b-dropdown-item>
-				<b-dropdown-item @click="downloadCSVFile">Export otázek do .tsv</b-dropdown-item>
+				<b-dropdown-item @click="downloadCSVFile">Export otázek do .csv</b-dropdown-item>
 			</b-dropdown>
 		</nav>
 	</div>
