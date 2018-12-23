@@ -1,5 +1,5 @@
 import { randomInteger, serializeMap } from './utiliy';
-import listOfQuestions from '../static/otazky.json';
+import listOfQuestions from '../data/otazky.json';
 
 export interface Question {
 	text: string;

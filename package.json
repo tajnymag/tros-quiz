@@ -8,7 +8,7 @@
 		"serve": "parcel index.html",
 		"build": "parcel build index.html",
 		"format:src": "prettier src/**/* *.js* --write",
-		"format:data": "prettier static/* --write"
+		"format:data": "prettier data/* --write"
 	},
 	"devDependencies": {
 		"@vue/component-compiler-utils": "^2.3.0",

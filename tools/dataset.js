@@ -2,9 +2,9 @@
 
 const fs = require('fs');
 const exec = require('child_process').exec;
-const questionsFile = require('./static/otazky.json');
+const questionsFile = require('../data/otazky.json');
 
-const OUTPUT_FILE = __dirname + '/static/otazky.json';
+const OUTPUT_FILE = __dirname + '/data/otazky.json';
 const args = process.argv.splice(2);
 
 function indexOfQuestion(text, answer, questions = questionsFile) {
