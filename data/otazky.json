@@ -11,7 +11,7 @@
 	},
 	{ "text": "Organizace je procesem.", "answer": true },
 	{ "text": "Činnost systému je jedním z případů jeho chování.", "answer": true },
-	{ "text": "Organizační struktura JE nosnou strukturou podniku.", "answer": true },
+	{ "text": "Organizační struktura je nosnou strukturou podniku.", "answer": true },
 	{
 		"text": "Organizační strukturu podniku lze vytvářet i podle podnikových funkcí a podle odvětví.",
 		"answer": true
@@ -124,7 +124,7 @@
 		"answer": false
 	},
 	{
-		"text": "Útvarová dekompozice organizačního systému vymezuje organizačníí proces.",
+		"text": "Útvarová dekompozice organizačního systému vymezuje organizační proces.",
 		"answer": false
 	},
 	{ "text": "Základními typy stylu řízení jsou liberální a autokratický.", "answer": true },
@@ -133,7 +133,7 @@
 		"answer": true
 	},
 	{ "text": "Organizační systém má nižší kompetenci než řídící.", "answer": true },
-	{ "text": "Sociální benefity jsou je vnitřními stimuly motivace.", "answer": false },
+	{ "text": "Sociální benefity jsou jen vnitřními stimuly motivace.", "answer": false },
 	{ "text": "Agregace je procesem spojování mezi systémy.", "answer": false },
 	{ "text": "Prvky organizačního systému jsou lidé a výrobní prostředky.", "answer": true },
 	{ "text": "Ovládání se neliší od řízení neúčastí vlastní zpětné vazby.", "answer": true },
@@ -193,7 +193,7 @@
 		"text": "Velikost organizačního systému je faktorem určujícím velikost řídící kapacity.",
 		"answer": false
 	},
-	{ "text": "Řídící kapacitu lze zvyšovat snižováním rozdílnosti říz. Fcí.", "answer": true },
+	{ "text": "Řídící kapacitu lze zvyšovat snižováním rozdílnosti říz. funkcí.", "answer": true },
 	{
 		"text": "Součet kompetencí řídícího a materiálně energetického subsystému je 0,399.",
 		"answer": true
@@ -229,7 +229,7 @@
 	{ "text": "Integrace snižuje složitost struktury systému.", "answer": true },
 	{ "text": "Průniky dvou transformací vykazují stejný výsledek.", "answer": false },
 	{ "text": "Doba procesu je součtem doby cyklu a zpětné vazby.", "answer": false },
-	{ "text": "Sociální benefity jsou je vnějšími stimuly motivace.", "answer": true },
+	{ "text": "Sociální benefity jsou jen vnějšími stimuly motivace.", "answer": true },
 	{ "text": "V útvarové i procesní dekompozici jsou různé subsystémy.", "answer": true },
 	{ "text": "Organizační struktura podniku je tvořena organizačními jednotkami.", "answer": true },
 	{ "text": "Transformace mohou být jednoznačné a mnohoznačné.", "answer": false },
@@ -303,7 +303,7 @@
 	},
 	{ "text": "Regulace nevykazuje přímé zpětné vazby, pouze nepřímé.", "answer": false },
 	{
-		"text": "Obecnou snahou při projektování řídících struktur je zvětšov. průměrnou řídí. kapacit.",
+		"text": "Obecnou snahou při projektování řídících struktur je zvětšování průměrných řídících kapacit.",
 		"answer": true
 	},
 	{ "text": "Činnost systému je případem jeho chování.", "answer": true },
@@ -339,7 +339,7 @@
 		"text": "Jedno-jednoznačná transformace má v řádku obrazů dva stejné stavy.",
 		"answer": false
 	},
-	{ "text": "Řídící kapacitu lze zvyšovat zvyšováním rozdílnosti říz. Fcí.", "answer": false },
+	{ "text": "Řídící kapacitu lze zvyšovat zvyšováním rozdílnosti říz. funkcí.", "answer": false },
 	{
 		"text": "Jednou z podmínek řízení je, aby řídící systém byl ochoten informaci vyslat.",
 		"answer": false
@@ -350,7 +350,7 @@
 	},
 	{ "text": "K transformacím patří uzavřené a otevřené.", "answer": true },
 	{ "text": "Kompetence organizačního subsystému je 0,333.", "answer": false },
-	{ "text": "Součet kompetencí techn. A řídícího subsystému je 0,444.", "answer": false },
+	{ "text": "Součet kompetencí techn. a řídícího subsystému je 0,444.", "answer": false },
 	{ "text": "Teoretická velikost podniku je vyjádřena v měrných jednotkách.", "answer": true },
 	{ "text": "Řízení lze charakterizovat jako činnost a proces.", "answer": false },
 	{ "text": "Projevem disjunktivního typu skupiny je spolupráce.", "answer": false },
@@ -403,7 +403,7 @@
 		"text": "Ke vztahům mezi subsystémy organizačního systému patří nezávislost.",
 		"answer": false
 	},
-	{ "text": "Součet kompetencí tech. A říd subsystému je 0,399.", "answer": true },
+	{ "text": "Součet kompetencí tech. a říd subsystému je 0,399.", "answer": true },
 	{ "text": "Spojování systémů v uzavřené vazbě je případem řízení.", "answer": true },
 	{ "text": "K fázím procesu řízení patří vedení lidí.", "answer": false },
 	{
@@ -566,10 +566,10 @@
 		"answer": true
 	},
 	{
-		"text": "K základním podmínkám žízení patří, že řízený systém musí být schopen a ochoten informaci přijmout.",
+		"text": "K základním podmínkám řízení patří, že řízený systém musí být schopen a ochoten informaci přijmout.",
 		"answer": true
 	},
-	{ "text": "5editel podniku má větší řídící kapacitu než mistr v dílně.", "answer": false },
+	{ "text": "Ředitel podniku má větší řídící kapacitu než mistr v dílně.", "answer": false },
 	{
 		"text": "Informace z kontroly plánování jsou základními informacemi pro organizování.",
 		"answer": true
