@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"scripts": {
 		"serve": "parcel index.html",
-		"build": "parcel build index.html --experimental-scope-hoisting",
+		"build": "parcel build index.html --experimental-scope-hoisting --no-source-maps",
 		"format:src": "prettier src/**/* *.js* --write",
 		"format:data": "prettier data/* --write"
 	},
