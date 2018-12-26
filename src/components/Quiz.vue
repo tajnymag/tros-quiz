@@ -110,9 +110,10 @@ export default Vue.extend({
 		updateProgress() {
 			this.progress = this.questionSet.getProgress();
 		},
-		nextQuestion() {
+		nextQuestion(el: MouseEvent) {
 			this.currentQuestion = this.questionSet.getRandomUnanswered();
 			this.resetCurrentAnswer();
+			el.currentTarget.blur();
 		}
 	}
 });
