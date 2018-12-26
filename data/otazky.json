@@ -427,7 +427,7 @@
 	{ "text": "Rozlišovací úroveň určuje podrobnost zkoumání systému", "answer": true },
 	{
 		"text": "Pravděpodobnost přenosu řídící informace klesá s rostoucím počtem prvků v jejich sériovém zapojení",
-		"answer": false
+		"answer": true
 	},
 	{ "text": "Chování je případem činnosti systému", "answer": true },
 	{
