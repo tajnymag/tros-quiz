@@ -523,7 +523,7 @@
 	{ "text": "Status je skupinovým ukazatelem neformálních vztahů.", "answer": false },
 	{
 		"text": "Marginální členství charakterizuje vysoký status člena a jeho nízká expanzivnost.",
-		"answer": false
+		"answer": true
 	},
 	{
 		"text": "Je-li v systému n prvků, potom počet vazeb n-1 definuje systém s nejvyšší jednoduchostí.",
