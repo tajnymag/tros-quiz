@@ -1,122 +1,122 @@
 [
-	{ "text": "Největší řídící kapacitou disponuje vrcholový pracovník", "answer": false },
-	{ "text": "Řídící rozpětí se po řídící vertikále od shora dolů zvětšuje", "answer": true },
+	{ "text": "Největší řídící kapacitou disponuje vrcholový pracovník.", "answer": false },
+	{ "text": "Řídící rozpětí se po řídící vertikále od shora dolů zvětšuje.", "answer": true },
 	{
-		"text": "V každém typu informačního působení se nachází deterministický systém",
+		"text": "V každém typu informačního působení se nachází deterministický systém.",
 		"answer": false
 	},
 	{
-		"text": "Index interakce patří ke skupinovým ukazatelům úrovně neformálních vztahů",
+		"text": "Index interakce patří ke skupinovým ukazatelům úrovně neformálních vztahů.",
 		"answer": true
 	},
 	{ "text": "Organizace je procesem.", "answer": true },
-	{ "text": "Činnost systému je jedním z případů jeho chování", "answer": true },
-	{ "text": "Organizační struktura JE nosnou strukturou podniku", "answer": true },
+	{ "text": "Činnost systému je jedním z případů jeho chování.", "answer": true },
+	{ "text": "Organizační struktura JE nosnou strukturou podniku.", "answer": true },
 	{
-		"text": "Organizační strukturu podniku lze vytvářet i podle podnikových funkcí a podle odvětví",
+		"text": "Organizační strukturu podniku lze vytvářet i podle podnikových funkcí a podle odvětví.",
 		"answer": true
 	},
 	{ "text": "Systém je úplným popisem objektu našeho zájmu.", "answer": false },
-	{ "text": "Řídící subsystém má nejvyšší kompetenci a nejnižší stabilitu", "answer": true },
-	{ "text": "Každá organizační jednotka je organizačním stupněm a naopak", "answer": false },
-	{ "text": "Kompetence organizačního systému je 1", "answer": true },
+	{ "text": "Řídící subsystém má nejvyšší kompetenci a nejnižší stabilitu.", "answer": true },
+	{ "text": "Každá organizační jednotka je organizačním stupněm a naopak.", "answer": false },
+	{ "text": "Kompetence organizačního systému je 1.", "answer": true },
 	{
 		"text": "Transformaci mezi vstupy a výstupy systému ovlivňují i vstupy minulé.",
 		"answer": true
 	},
-	{ "text": "Spojování systémů v otevřené vazbě je případem řízení", "answer": null },
+	{ "text": "Spojování systémů v otevřené vazbě je případem řízení.", "answer": null },
 	{ "text": "Součet kompetencí řídícího a sociálního subsystému je 0,444.", "answer": true },
-	{ "text": "Výrobní podnik je systémem reálným a prospektivním", "answer": false },
-	{ "text": "Předmětem zkoumání kybernetiky nejsou adaptavní systém", "answer": false },
+	{ "text": "Výrobní podnik je systémem reálným a prospektivním.", "answer": false },
+	{ "text": "Předmětem zkoumání kybernetiky nejsou adaptavní systém.", "answer": false },
 	{
-		"text": "Mezi členy sociometrického jádra skupiny jsou pozitivní dyadické vztahy",
+		"text": "Mezi členy sociometrického jádra skupiny jsou pozitivní dyadické vztahy.",
 		"answer": true
 	},
-	{ "text": "Změna trajektorie změní činnost systému", "answer": true },
-	{ "text": "Ke stádiím cyklu řízení nepatří rozhodování", "answer": false },
-	{ "text": "Procesní dekompozici tvoří pracovní, organizační a řídící procesy", "answer": null },
+	{ "text": "Změna trajektorie změní činnost systému.", "answer": true },
+	{ "text": "Ke stádiím cyklu řízení nepatří rozhodování.", "answer": false },
+	{ "text": "Procesní dekompozici tvoří pracovní, organizační a řídící procesy.", "answer": null },
 	{
-		"text": "Štábní řídící pracovníci jsou zařazeni v divizionálním typu řídící struktury",
+		"text": "Štábní řídící pracovníci jsou zařazeni v divizionálním typu řídící struktury.",
 		"answer": true
 	},
-	{ "text": "Základními typy stylu řízení jsou autokratický a liberální", "answer": true },
+	{ "text": "Základními typy stylu řízení jsou autokratický a liberální.", "answer": true },
 	{
-		"text": "Absence pracovníka na pracovišti se týká fáze organizace a stádia rozhodování",
+		"text": "Absence pracovníka na pracovišti se týká fáze organizace a stádia rozhodování.",
 		"answer": false
 	},
 	{
 		"text": "Útvarová dekompozice organizačního systému má jiné subsystémy než procesní.",
 		"answer": false
 	},
-	{ "text": "Druhým stupněm organizační struktury je vždy závod", "answer": false },
+	{ "text": "Druhým stupněm organizační struktury je vždy závod.", "answer": false },
 	{
-		"text": "Procesní dekompozice organizačního systému podle vazeb a prvků vymezuje 9 subsystémů",
+		"text": "Procesní dekompozice organizačního systému podle vazeb a prvků vymezuje 9 subsystémů.",
 		"answer": true
 	},
-	{ "text": "Redukovaný systém nemůže být relativně izolovaným", "answer": false },
+	{ "text": "Redukovaný systém nemůže být relativně izolovaným.", "answer": false },
 	{
-		"text": "Elementarismus se zabývá jen kvalitou částí celku, ne vazbami mezi nimi",
+		"text": "Elementarismus se zabývá jen kvalitou částí celku, ne vazbami mezi nimi.",
 		"answer": true
 	},
-	{ "text": "Desagregace zvětšuje složitost struktury systému", "answer": true },
+	{ "text": "Desagregace zvětšuje složitost struktury systému.", "answer": true },
 	{
 		"text": "Ke vztahům mezi subsystémy organizačního systému patří vztah disjunkce nebo konjunkce.",
 		"answer": true
 	},
-	{ "text": "K transformaci dochází mezi jednotlivými výstupy ze systému", "answer": false },
-	{ "text": "Každý organizační systém není organizační jednotkou", "answer": false },
-	{ "text": "Řídící informace snižuje entropii adresáta", "answer": true },
-	{ "text": "Objekt je abstrakcí systému", "answer": false },
-	{ "text": "Chování systému je případem jeho činností", "answer": false },
-	{ "text": "Řídící informace zmenšuje nebo zvětšuje entropii příjemce", "answer": false },
+	{ "text": "K transformaci dochází mezi jednotlivými výstupy ze systému.", "answer": false },
+	{ "text": "Každý organizační systém není organizační jednotkou.", "answer": false },
+	{ "text": "Řídící informace snižuje entropii adresáta.", "answer": true },
+	{ "text": "Objekt je abstrakcí systému.", "answer": false },
+	{ "text": "Chování systému je případem jeho činností.", "answer": false },
+	{ "text": "Řídící informace zmenšuje nebo zvětšuje entropii příjemce.", "answer": false },
 	{ "text": "Stochastický charakter systémů zvětšuje i jejich složitost.", "answer": true },
-	{ "text": "V jednoznačné transformaci mají různé operandy stejný obraz", "answer": false },
-	{ "text": "Bitva u Kreščaku se konala v roce 1346", "answer": true },
-	{ "text": "Řídící subsystém má nejvyšší stabilitu i kompetenci", "answer": false },
+	{ "text": "V jednoznačné transformaci mají různé operandy stejný obraz.", "answer": false },
+	{ "text": "Bitva u Kreščaku se konala v roce 1346.", "answer": true },
+	{ "text": "Řídící subsystém má nejvyšší stabilitu i kompetenci.", "answer": false },
 	{ "text": "Objekty řízení jsou pouze systémy adaptivní s cílových chováním.", "answer": true },
-	{ "text": "Řídící kapacitu je nutno na řídící vertikále zachovávat stejnou", "answer": false },
+	{ "text": "Řídící kapacitu je nutno na řídící vertikále zachovávat stejnou.", "answer": false },
 	{ "text": "Elementy stability jsou výrobní prostředky.", "answer": false },
 	{
-		"text": "Chování systému je ovlivněno časovým zpožděním mezi podněty a reakcemi",
+		"text": "Chování systému je ovlivněno časovým zpožděním mezi podněty a reakcemi.",
 		"answer": true
 	},
-	{ "text": "Systém je opakem chaosu", "answer": true },
+	{ "text": "Systém je opakem chaosu.", "answer": true },
 	{
-		"text": "Ekonomický systém podniku je systémem reálným a relativně izolovaným",
+		"text": "Ekonomický systém podniku je systémem reálným a relativně izolovaným.",
 		"answer": true
 	},
-	{ "text": "Transformace je změnou mezi vstupem do systému a výstupem z něho", "answer": true },
-	{ "text": "Nejmenší organizační jednotkou není jeden pracovník", "answer": true },
+	{ "text": "Transformace je změnou mezi vstupem do systému a výstupem z něho.", "answer": true },
+	{ "text": "Nejmenší organizační jednotkou není jeden pracovník.", "answer": true },
 	{
-		"text": "Prověřování složení pracovní skupiny je záležitostí operativního řízení",
+		"text": "Prověřování složení pracovní skupiny je záležitostí operativního řízení.",
 		"answer": null
 	},
-	{ "text": "Technický subsystém má větší stabilitu než řídící", "answer": true },
+	{ "text": "Technický subsystém má větší stabilitu než řídící.", "answer": true },
 	{ "text": "Varieta je množinou stavů systému, jeho transformací, chování.", "answer": true },
 	{
-		"text": "Podle zpracování informace jsou řídící prvky distribučně množící a paralelně přidělující",
+		"text": "Podle zpracování informace jsou řídící prvky distribučně množící a paralelně přidělující.",
 		"answer": false
 	},
-	{ "text": "Ne každá organizační jednotka je organizačním stupněm", "answer": true },
-	{ "text": "Chování deterministického systému má hodnotu 0 a 1", "answer": true },
-	{ "text": "Výrobní podnik je systémem deterministickým a redukovaným", "answer": false },
-	{ "text": "Organizační systém je součástí sociálně-ekonomické oblasti", "answer": true },
+	{ "text": "Ne každá organizační jednotka je organizačním stupněm.", "answer": true },
+	{ "text": "Chování deterministického systému má hodnotu 0 a 1.", "answer": true },
+	{ "text": "Výrobní podnik je systémem deterministickým a redukovaným.", "answer": false },
+	{ "text": "Organizační systém je součástí sociálně-ekonomické oblasti.", "answer": true },
 	{
 		"text": "Každé schéma informačního působení obsahuje vlastní zpětnou vazbu.",
 		"answer": true
 	},
-	{ "text": "MV v rozhodování vyšší úrovně řízení je 100%", "answer": true },
-	{ "text": "Ke stádiím cyklu řízení patří ovlivňování", "answer": true },
-	{ "text": "V sériové vazbě konjunktivní prvek zpomaluje přenos informace", "answer": false },
-	{ "text": "Operátor je pravidlem přiřazení výstupního vektoru vstupním", "answer": true },
+	{ "text": "MV v rozhodování vyšší úrovně řízení je 100%.", "answer": true },
+	{ "text": "Ke stádiím cyklu řízení patří ovlivňování.", "answer": true },
+	{ "text": "V sériové vazbě konjunktivní prvek zpomaluje přenos informace.", "answer": false },
+	{ "text": "Operátor je pravidlem přiřazení výstupního vektoru vstupním.", "answer": true },
 	{
-		"text": "Podle zpracování informace rozlišujeme také prvky disjunktivní a paralelně-přidělující",
+		"text": "Podle zpracování informace rozlišujeme také prvky disjunktivní a paralelně-přidělující.",
 		"answer": false
 	},
-	{ "text": "Účast konjunktivního prvku zrychluje přenos informací v sérii", "answer": false },
-	{ "text": "K transformacím dochází i mezi jednotlivými vstupy do systému", "answer": false },
+	{ "text": "Účast konjunktivního prvku zrychluje přenos informací v sérii.", "answer": false },
+	{ "text": "K transformacím dochází i mezi jednotlivými vstupy do systému.", "answer": false },
 	{
-		"text": "Informace existuje jen v souvislosti se systémem, jehož činnost ovlivňuje",
+		"text": "Informace existuje jen v souvislosti se systémem, jehož činnost ovlivňuje.",
 		"answer": true
 	},
 	{
@@ -124,374 +124,374 @@
 		"answer": false
 	},
 	{
-		"text": "Útvarová dekompozice organizačního systému vymezuje organizačníí proces",
+		"text": "Útvarová dekompozice organizačního systému vymezuje organizačníí proces.",
 		"answer": false
 	},
-	{ "text": "Základními typy stylu řízení jsou liberální a autokratický", "answer": true },
+	{ "text": "Základními typy stylu řízení jsou liberální a autokratický.", "answer": true },
 	{
-		"text": "Paralelní vazby svodné zjednodušují a rozvodné ztěžují složitost systému",
+		"text": "Paralelní vazby svodné zjednodušují a rozvodné ztěžují složitost systému.",
 		"answer": true
 	},
-	{ "text": "Organizační systém má nižší kompetenci než řídící", "answer": true },
-	{ "text": "Sociální benefity jsou je vnitřními stimuly motivace", "answer": false },
-	{ "text": "Agregace je procesem spojování mezi systémy", "answer": false },
+	{ "text": "Organizační systém má nižší kompetenci než řídící.", "answer": true },
+	{ "text": "Sociální benefity jsou je vnitřními stimuly motivace.", "answer": false },
+	{ "text": "Agregace je procesem spojování mezi systémy.", "answer": false },
 	{ "text": "Prvky organizačního systému jsou lidé a výrobní prostředky.", "answer": true },
-	{ "text": "Ovládání se neliší od řízení neúčastí vlastní zpětné vazby", "answer": true },
-	{ "text": "Ke vztahům mezi subsystémy patří vztah zastupitelnosti", "answer": false },
+	{ "text": "Ovládání se neliší od řízení neúčastí vlastní zpětné vazby.", "answer": true },
+	{ "text": "Ke vztahům mezi subsystémy patří vztah zastupitelnosti.", "answer": false },
 	{
-		"text": "Hmotné vztahy mezi člověkem a výrobním prostředkem vymezuje ekonomicko-ekologický subsystém",
+		"text": "Hmotné vztahy mezi člověkem a výrobním prostředkem vymezuje ekonomicko-ekologický subsystém.",
 		"answer": false
 	},
-	{ "text": "Transformace probíhají v kalendáři vstupů, ale ne výstupů", "answer": false },
+	{ "text": "Transformace probíhají v kalendáři vstupů, ale ne výstupů.", "answer": false },
 	{ "text": "K typům organizační struktury patří divizionální.", "answer": true },
-	{ "text": "Organizační subsystém má větší stabilitu než technický", "answer": false },
+	{ "text": "Organizační subsystém má větší stabilitu než technický.", "answer": false },
 	{
-		"text": "Organizační systém je charakterizován smíšenými prvky a smíšenými vazbami",
+		"text": "Organizační systém je charakterizován smíšenými prvky a smíšenými vazbami.",
 		"answer": false
 	},
-	{ "text": "Trajektorie je konkrétním případem repertoáru", "answer": true },
-	{ "text": "Mezi sociálním a organizačním subsystémem je vztah disjunkce", "answer": false },
-	{ "text": "Sociální benefity jsou vnějšími stimuly motivace", "answer": true },
-	{ "text": "V sériové vazbě disjunktivní prvek zrychluje přenos informace", "answer": null },
+	{ "text": "Trajektorie je konkrétním případem repertoáru.", "answer": true },
+	{ "text": "Mezi sociálním a organizačním subsystémem je vztah disjunkce.", "answer": false },
+	{ "text": "Sociální benefity jsou vnějšími stimuly motivace.", "answer": true },
+	{ "text": "V sériové vazbě disjunktivní prvek zrychluje přenos informace.", "answer": null },
 	{
-		"text": "Chování systému ovlivňuje i časové zpoždění mezi podněty a reakcemi",
+		"text": "Chování systému ovlivňuje i časové zpoždění mezi podněty a reakcemi.",
 		"answer": true
 	},
 	{
-		"text": "K součástem kvalifikace pracovníka nelze zahrnovat jeho temperament",
+		"text": "K součástem kvalifikace pracovníka nelze zahrnovat jeho temperament.",
 		"answer": false
 	},
 	{ "text": "Systém je abstrakcí objektu a zjednodušuje jej.", "answer": true },
-	{ "text": "Spojování systémů je případem řízení nebo ovládání", "answer": true },
-	{ "text": "Chování systému ovlivňují výstupu z minulých intervalů", "answer": true },
-	{ "text": "Ovlivňování patří k typům informačního působení", "answer": false },
+	{ "text": "Spojování systémů je případem řízení nebo ovládání.", "answer": true },
+	{ "text": "Chování systému ovlivňují výstupu z minulých intervalů.", "answer": true },
+	{ "text": "Ovlivňování patří k typům informačního působení.", "answer": false },
 	{
-		"text": "Má-li dojit k řízení, musí být řízený systém ochoten přijmout informaci",
+		"text": "Má-li dojit k řízení, musí být řízený systém ochoten přijmout informaci.",
 		"answer": true
 	},
-	{ "text": "Participace je způsobem vedení lidí", "answer": true },
+	{ "text": "Participace je způsobem vedení lidí.", "answer": true },
 	{
 		"text": "Pracovní proces organizačního systému je tvořen také technologickým subsystémem.",
 		"answer": false
 	},
 	{
-		"text": "Procesní dekompozice organizačního systému vymezuje řídící proces",
+		"text": "Procesní dekompozice organizačního systému vymezuje řídící proces.",
 		"answer": false
 	},
-	{ "text": "Regulace patří k tipům informačního působení", "answer": true },
+	{ "text": "Regulace patří k tipům informačního působení.", "answer": true },
 	{
-		"text": "Sériový řídící prvek je ke svému zálohovému prvku ve vztahu disjunkce",
+		"text": "Sériový řídící prvek je ke svému zálohovému prvku ve vztahu disjunkce.",
 		"answer": true
 	},
 	{ "text": "Projevem uzavřené transformace je cyklus.", "answer": true },
-	{ "text": "Množství informace k rozhodnutí roste s počtem variant řešení", "answer": true },
+	{ "text": "Množství informace k rozhodnutí roste s počtem variant řešení.", "answer": true },
 	{
 		"text": "Žádná transformace uzavřená nemůže být transformací jednojednoznačnou.",
 		"answer": false
 	},
 	{
-		"text": "Velikost organizačního systému je faktorem určujícím velikost řídící kapacity",
+		"text": "Velikost organizačního systému je faktorem určujícím velikost řídící kapacity.",
 		"answer": false
 	},
 	{ "text": "Řídící kapacitu lze zvyšovat snižováním rozdílnosti říz. Fcí.", "answer": true },
 	{
-		"text": "Součet kompetencí řídícího a materiálně energetického subsystému je 0,399",
+		"text": "Součet kompetencí řídícího a materiálně energetického subsystému je 0,399.",
 		"answer": true
 	},
 	{ "text": "Velikost řídící kapacity ovlivňují i subjektivní faktory.", "answer": true },
-	{ "text": "Organizační systém má kompetenci 0,333", "answer": false },
-	{ "text": "Chování systému je zobecněním jeho činností", "answer": true },
+	{ "text": "Organizační systém má kompetenci 0,333.", "answer": false },
+	{ "text": "Chování systému je zobecněním jeho činností.", "answer": true },
 	{
-		"text": "Pravděpodobnost chování organizačního systému klesá s klesajícím počtem séniových prvků",
+		"text": "Pravděpodobnost chování organizačního systému klesá s klesajícím počtem séniových prvků.",
 		"answer": false
 	},
-	{ "text": "Mezi systémem a modelem lze určit vztah izomorfní nebo homogenní", "answer": false },
-	{ "text": "Projevem disjunktivního typu skupiny je soutěž", "answer": true },
-	{ "text": "Výrobní systém podniku je systémem adaptivním a otevřeným", "answer": false },
-	{ "text": "Sociální systém podniku je adaptivně a relativně izolovaný", "answer": true },
+	{ "text": "Mezi systémem a modelem lze určit vztah izomorfní nebo homogenní.", "answer": false },
+	{ "text": "Projevem disjunktivního typu skupiny je soutěž.", "answer": true },
+	{ "text": "Výrobní systém podniku je systémem adaptivním a otevřeným.", "answer": false },
+	{ "text": "Sociální systém podniku je adaptivně a relativně izolovaný.", "answer": true },
 	{
-		"text": "Systémový přístup na rozdíl od elementarismu respektuje vztahy mezi prvky",
+		"text": "Systémový přístup na rozdíl od elementarismu respektuje vztahy mezi prvky.",
 		"answer": true
 	},
-	{ "text": "Řídící informace mění entropii adresáta", "answer": true },
-	{ "text": "Ovlivňování je součásti fáze organizování", "answer": true },
-	{ "text": "Zemědělský podnik je systémem retrospektivním a redukovaným", "answer": true },
-	{ "text": "Výrobní systém podniku je reálný a relativně izolovaný", "answer": true },
+	{ "text": "Řídící informace mění entropii adresáta.", "answer": true },
+	{ "text": "Ovlivňování je součásti fáze organizování.", "answer": true },
+	{ "text": "Zemědělský podnik je systémem retrospektivním a redukovaným.", "answer": true },
+	{ "text": "Výrobní systém podniku je reálný a relativně izolovaný.", "answer": true },
 	{
-		"text": "Expanzivnost členů skupiny 0,12 a jeho status 0,15 vymezují marginální členství",
+		"text": "Expanzivnost členů skupiny 0,12 a jeho status 0,15 vymezují marginální členství.",
 		"answer": false
 	},
 	{
 		"text": "Organizační proces je tvořen smíšenými vazbami a jedním typem prvků.",
 		"answer": false
 	},
-	{ "text": "Diferenciace zvětšuje složitost struktury systému", "answer": false },
+	{ "text": "Diferenciace zvětšuje složitost struktury systému.", "answer": false },
 	{ "text": "Integrace snižuje složitost struktury systému.", "answer": true },
-	{ "text": "Průniky dvou transformací vykazují stejný výsledek", "answer": false },
+	{ "text": "Průniky dvou transformací vykazují stejný výsledek.", "answer": false },
 	{ "text": "Doba procesu je součtem doby cyklu a zpětné vazby.", "answer": false },
-	{ "text": "Sociální benefity jsou je vnějšími stimuly motivace", "answer": true },
-	{ "text": "V útvarové i procesní dekompozici jsou různé subsystémy", "answer": true },
-	{ "text": "Organizační struktura podniku je tvořena organizačními jednotkami", "answer": true },
+	{ "text": "Sociální benefity jsou je vnějšími stimuly motivace.", "answer": true },
+	{ "text": "V útvarové i procesní dekompozici jsou různé subsystémy.", "answer": true },
+	{ "text": "Organizační struktura podniku je tvořena organizačními jednotkami.", "answer": true },
 	{ "text": "Transformace mohou být jednoznačné a mnohoznačné.", "answer": false },
 	{
-		"text": "Kvalitativní stránka informace se týká jejího výběru z adekvátní variety",
+		"text": "Kvalitativní stránka informace se týká jejího výběru z adekvátní variety.",
 		"answer": true
 	},
-	{ "text": "Výrobní systém podniku je stochastický a relativní", "answer": false },
-	{ "text": "Kontrola není součástí fáze plánování", "answer": false },
-	{ "text": "Řídící pracovník je zálohovým prvkem zatížené zálohy", "answer": true },
-	{ "text": "Řídící kapacita je dána počtem podřízených pracovníků celkem", "answer": false },
-	{ "text": "Ke vztahům mezi modelem a systémem patří homomorfie", "answer": true },
-	{ "text": "K metodám kybernetiky patří metoda analogie a metoda modelování", "answer": true },
-	{ "text": "Kybernetika se v ničem neliší od algebry", "answer": false },
-	{ "text": "Nejmenší organizační jednotkou je organizační stupeň", "answer": false },
-	{ "text": "Účast disjunkt. prvků zrychluje přenos informací v sérii", "answer": true },
-	{ "text": "Výsledkem integrace je zjednodušení struktury systému", "answer": true },
+	{ "text": "Výrobní systém podniku je stochastický a relativní.", "answer": false },
+	{ "text": "Kontrola není součástí fáze plánování.", "answer": false },
+	{ "text": "Řídící pracovník je zálohovým prvkem zatížené zálohy.", "answer": true },
+	{ "text": "Řídící kapacita je dána počtem podřízených pracovníků celkem.", "answer": false },
+	{ "text": "Ke vztahům mezi modelem a systémem patří homomorfie.", "answer": true },
+	{ "text": "K metodám kybernetiky patří metoda analogie a metoda modelování.", "answer": true },
+	{ "text": "Kybernetika se v ničem neliší od algebry.", "answer": false },
+	{ "text": "Nejmenší organizační jednotkou je organizační stupeň.", "answer": false },
+	{ "text": "Účast disjunkt. prvků zrychluje přenos informací v sérii.", "answer": true },
+	{ "text": "Výsledkem integrace je zjednodušení struktury systému.", "answer": true },
 	{
 		"text": "Ke vztahům mezi subsystémy patří vztah zastupitelnosti a proporcionality.",
 		"answer": false
 	},
-	{ "text": "Jsou 4 fáze a 4 stádia cyklu řízení", "answer": false },
-	{ "text": "Rozlišující úroveň je ovlivněna hlediskem pozorovatele", "answer": true },
+	{ "text": "Jsou 4 fáze a 4 stádia cyklu řízení.", "answer": false },
+	{ "text": "Rozlišující úroveň je ovlivněna hlediskem pozorovatele.", "answer": true },
 	{
-		"text": "Organizační systém je tvořen smíšenými vazbami a jedním typem prvků",
+		"text": "Organizační systém je tvořen smíšenými vazbami a jedním typem prvků.",
 		"answer": false
 	},
 	{
-		"text": "Dobu cyklu můžeme určit i bez existence zpětné vazby mezi vstupními a výstupními prvky",
+		"text": "Dobu cyklu můžeme určit i bez existence zpětné vazby mezi vstupními a výstupními prvky.",
 		"answer": false
 	},
 	{
-		"text": "Prověřování vhodného složení pracovní skupiny je záležitost plánování",
+		"text": "Prověřování vhodného složení pracovní skupiny je záležitost plánování.",
 		"answer": null
 	},
 	{
-		"text": "Procesní dekompozici organizačního systému podle vazeb a prvků vymezuje dvanáct subsystémů",
+		"text": "Procesní dekompozici organizačního systému podle vazeb a prvků vymezuje dvanáct subsystémů.",
 		"answer": false
 	},
 	{ "text": "Transformace je dána posloupností na vstupech do systému.", "answer": false },
-	{ "text": "Výsledkem agregace je zjednodušení struktury systému", "answer": true },
+	{ "text": "Výsledkem agregace je zjednodušení struktury systému.", "answer": true },
 	{ "text": "Integrace může probíhat současně s desagregací.", "answer": true },
-	{ "text": "Integrace je procesem spojování mezi systémy", "answer": true },
-	{ "text": "Konjunkce není logickým součtem", "answer": true },
+	{ "text": "Integrace je procesem spojování mezi systémy.", "answer": true },
+	{ "text": "Konjunkce není logickým součtem.", "answer": true },
 	{
-		"text": "výhodou FUNKCIONÁLNÍHO typu řídící struktury je prosazování specializace",
+		"text": "Výhodou FUNKCIONÁLNÍHO typu řídící struktury je prosazování specializace.",
 		"answer": true
 	},
-	{ "text": "JOP je základním organizačním systémem", "answer": false },
-	{ "text": "Zemědělský podnik je systémem relativním a relativně izolovaným", "answer": false },
+	{ "text": "JOP je základním organizačním systémem.", "answer": false },
+	{ "text": "Zemědělský podnik je systémem relativním a relativně izolovaným.", "answer": false },
 	{
-		"text": "V územní organizační struktuře vzniká ?lunární? produkt na úrovni závodu či provozů",
+		"text": "V územní organizační struktuře vzniká ?lunární? produkt na úrovni závodu či provozů.",
 		"answer": true
 	},
-	{ "text": "Organizační systém má třetinovou kompetenci subsystému řídícího", "answer": true },
+	{ "text": "Organizační systém má třetinovou kompetenci subsystému řídícího.", "answer": true },
 	{
-		"text": "Hmotné vztahy mezi člověkem a výrobním prostředkem vymezuje koherentně pracovní systém",
+		"text": "Hmotné vztahy mezi člověkem a výrobním prostředkem vymezuje koherentně pracovní systém.",
 		"answer": true
 	},
-	{ "text": "Průměrná řídící kapacita je 2,5", "answer": false },
-	{ "text": "Útvarová kompozice o.s. určuje 3, procesní 9 subsystémů", "answer": false },
-	{ "text": "Manažer zpracovává informaci konjunktivně", "answer": true },
-	{ "text": "Základními typy stylu řízení jsou autokratický a týmový", "answer": false },
+	{ "text": "Průměrná řídící kapacita je 2,5.", "answer": false },
+	{ "text": "Útvarová kompozice o.s. určuje 3, procesní 9 subsystémů.", "answer": false },
+	{ "text": "Manažer zpracovává informaci konjunktivně.", "answer": true },
+	{ "text": "Základními typy stylu řízení jsou autokratický a týmový.", "answer": false },
 	{
-		"text": "Časové zpoždění v systému je doba, která uplyne od okamžiku, kdy se na vstupu objeví rozhodující podnět až do okamžiku, kdy se výstupu objeví odezva",
+		"text": "Časové zpoždění v systému je doba, která uplyne od okamžiku, kdy se na vstupu objeví rozhodující podnět až do okamžiku, kdy se výstupu objeví odezva.",
 		"answer": true
 	},
 	{
-		"text": "Organizační systém podniku je systémem stochastickým a retrospektivním",
+		"text": "Organizační systém podniku je systémem stochastickým a retrospektivním.",
 		"answer": true
 	},
-	{ "text": "Regulace nevykazuje přímé zpětné vazby, pouze nepřímé", "answer": false },
+	{ "text": "Regulace nevykazuje přímé zpětné vazby, pouze nepřímé.", "answer": false },
 	{
-		"text": "Obecnou snahou při projektování řídících struktur je zvětšov. průměrnou řídí. kapacit",
+		"text": "Obecnou snahou při projektování řídících struktur je zvětšov. průměrnou řídí. kapacit.",
 		"answer": true
 	},
-	{ "text": "Činnost systému je případem jeho chování", "answer": true },
-	{ "text": "Průnik dvou transformací má vždy stejný tvar", "answer": false },
-	{ "text": "Zemědělský podnik je systémem stochastickým a prospektivním", "answer": false },
-	{ "text": "Mezi systémem a modelem lze určit vztah izomorfní nebo homomorfní", "answer": true },
-	{ "text": "Specialista zpracovává informaci DISJUNKTIVNĚ", "answer": true },
+	{ "text": "Činnost systému je případem jeho chování.", "answer": true },
+	{ "text": "Průnik dvou transformací má vždy stejný tvar.", "answer": false },
+	{ "text": "Zemědělský podnik je systémem stochastickým a prospektivním.", "answer": false },
+	{ "text": "Mezi systémem a modelem lze určit vztah izomorfní nebo homomorfní.", "answer": true },
+	{ "text": "Specialista zpracovává informaci DISJUNKTIVNĚ.", "answer": true },
 	{ "text": "Repertoár není totéž, co trajektorie.", "answer": true },
-	{ "text": "Koeficient výkonnosti v řízení preferuje zkušenost", "answer": null },
-	{ "text": "Řízení je vědou i uměním", "answer": true },
+	{ "text": "Koeficient výkonnosti v řízení preferuje zkušenost.", "answer": null },
+	{ "text": "Řízení je vědou i uměním.", "answer": true },
 	{
-		"text": "Kvantitativní charakteristika informace je dána jejím výběrem z adekvátní variety",
+		"text": "Kvantitativní charakteristika informace je dána jejím výběrem z adekvátní variety.",
 		"answer": false
 	},
-	{ "text": "Cílový stav patří k základním dimenzím organizačního systému", "answer": true },
+	{ "text": "Cílový stav patří k základním dimenzím organizačního systému.", "answer": true },
 	{ "text": "Proces řízení je tvořen třemi stádii a čtyřmi fázemi.", "answer": false },
-	{ "text": "Nejmenší organizační jednotkou je JOP (jednotka organizace práce)", "answer": true },
+	{ "text": "Nejmenší organizační jednotkou je JOP (jednotka organizace práce).", "answer": true },
 	{
-		"text": "Absence pracovníka na pracovišti se týká fáze operativního řízení a stádia rozhodování",
+		"text": "Absence pracovníka na pracovišti se týká fáze operativního řízení a stádia rozhodování.",
 		"answer": true
 	},
-	{ "text": "MV v rozhodování vyšší úrovně řízení se blíží 100%", "answer": false },
+	{ "text": "MV v rozhodování vyšší úrovně řízení se blíží 100%.", "answer": false },
 	{
 		"text": "Spojení dvou systémů otevřenou vazbou je uskutečněno jen jednou vazbou.",
 		"answer": true
 	},
-	{ "text": "Chování řídícího a ovládajícího systému se nemusí lišit", "answer": false },
+	{ "text": "Chování řídícího a ovládajícího systému se nemusí lišit.", "answer": false },
 	{
-		"text": "Sociální a technický subsystém se liší v kompetenci, ne ve stabilitě",
+		"text": "Sociální a technický subsystém se liší v kompetenci, ne ve stabilitě.",
 		"answer": false
 	},
 	{
-		"text": "Jedno-jednoznačná transformace má v řádku obrazů dva stejné stavy",
+		"text": "Jedno-jednoznačná transformace má v řádku obrazů dva stejné stavy.",
 		"answer": false
 	},
 	{ "text": "Řídící kapacitu lze zvyšovat zvyšováním rozdílnosti říz. Fcí.", "answer": false },
 	{
-		"text": "Jednou z podmínek řízení je, aby řídící systém byl ochoten informaci vyslat",
+		"text": "Jednou z podmínek řízení je, aby řídící systém byl ochoten informaci vyslat.",
 		"answer": false
 	},
 	{
-		"text": "Jednotlivé subsystémy organizačního systému se vyznačují vzájemnou zastupitelností",
+		"text": "Jednotlivé subsystémy organizačního systému se vyznačují vzájemnou zastupitelností.",
 		"answer": false
 	},
-	{ "text": "K transformacím patří uzavřené a otevřené", "answer": true },
+	{ "text": "K transformacím patří uzavřené a otevřené.", "answer": true },
 	{ "text": "Kompetence organizačního subsystému je 0,333.", "answer": false },
-	{ "text": "Součet kompetencí techn. A řídícího subsystému je 0,444", "answer": false },
+	{ "text": "Součet kompetencí techn. A řídícího subsystému je 0,444.", "answer": false },
 	{ "text": "Teoretická velikost podniku je vyjádřena v měrných jednotkách.", "answer": true },
-	{ "text": "Řízení lze charakterizovat jako činnost a proces", "answer": false },
-	{ "text": "Projevem disjunktivního typu skupiny je spolupráce", "answer": false },
-	{ "text": "Integrace je procesem zjednodušujícím strukturu systému", "answer": true },
-	{ "text": "Jedno-jednoznačná transformace má tvar cyklu", "answer": true },
-	{ "text": "Výrobní podnik je systémem stochastickým a redukovaným", "answer": true },
-	{ "text": "Partikularizace je způsobem vedení lidí", "answer": false },
+	{ "text": "Řízení lze charakterizovat jako činnost a proces.", "answer": false },
+	{ "text": "Projevem disjunktivního typu skupiny je spolupráce.", "answer": false },
+	{ "text": "Integrace je procesem zjednodušujícím strukturu systému.", "answer": true },
+	{ "text": "Jedno-jednoznačná transformace má tvar cyklu.", "answer": true },
+	{ "text": "Výrobní podnik je systémem stochastickým a redukovaným.", "answer": true },
+	{ "text": "Partikularizace je způsobem vedení lidí.", "answer": false },
 	{ "text": "Organizaci lze charakterizovat jako míru uspořádání.", "answer": true },
 	{
-		"text": "Na každém objektu našeho zájmu lze zavést jediný systém(nekonečně mnoho systémů)",
+		"text": "Na každém objektu našeho zájmu lze zavést jediný systém(nekonečně mnoho systémů).",
 		"answer": false
 	},
-	{ "text": "Průniky dvou transformací nemají různé výsledky", "answer": false },
-	{ "text": "Každý reálný systém je uzavřený", "answer": false },
-	{ "text": "Jednotlivé činnosti systému jsou součástí jeho chování", "answer": true },
-	{ "text": "Řídící kapacita nezavrhuje osobní vlastnosti řídícího pracovníka", "answer": false },
-	{ "text": "Řízení se liší od ovládání absencí přímé zpětné vazby", "answer": false },
+	{ "text": "Průniky dvou transformací nemají různé výsledky.", "answer": false },
+	{ "text": "Každý reálný systém je uzavřený.", "answer": false },
+	{ "text": "Jednotlivé činnosti systému jsou součástí jeho chování.", "answer": true },
+	{ "text": "Řídící kapacita nezavrhuje osobní vlastnosti řídícího pracovníka.", "answer": false },
+	{ "text": "Řízení se liší od ovládání absencí přímé zpětné vazby.", "answer": false },
 	{
-		"text": "Složitost systému není dána typem vnitřních vazeb, ale jejich počtem",
+		"text": "Složitost systému není dána typem vnitřních vazeb, ale jejich počtem.",
 		"answer": false
 	},
 	{ "text": "Pro projektové řízení je maticová řídící struktura vhodným typem.", "answer": true },
-	{ "text": "Homomorfní vztah vyjadřuje podobu mezi dvěma objekty zájmu", "answer": true },
-	{ "text": "Účast disjunktivního prvku zrychluje přenos informací v sérii", "answer": true },
+	{ "text": "Homomorfní vztah vyjadřuje podobu mezi dvěma objekty zájmu.", "answer": true },
+	{ "text": "Účast disjunktivního prvku zrychluje přenos informací v sérii.", "answer": true },
 	{
-		"text": "Jednoznačná transformace má v řádku operandů minimálně 2 stejné stavy",
+		"text": "Jednoznačná transformace má v řádku operandů minimálně 2 stejné stavy.",
 		"answer": true
 	},
-	{ "text": "V útvarové i procesní dekompozici jsou různé subsystémy", "answer": false },
+	{ "text": "V útvarové i procesní dekompozici jsou různé subsystémy.", "answer": false },
 	{
-		"text": "Objektivním faktorem velikosti řídící kapacity je podobnost řízených funkcí",
+		"text": "Objektivním faktorem velikosti řídící kapacity je podobnost řízených funkcí.",
 		"answer": null
 	},
 	{
 		"text": "Rozlišovací úroveň je dána hlediskem a rozlišovací schopností pozorovatele.",
 		"answer": true
 	},
-	{ "text": "Řídící struktura je nosnou strukturou podniku", "answer": false },
+	{ "text": "Řídící struktura je nosnou strukturou podniku.", "answer": false },
 	{
 		"text": "Na jakémkoliv objektu našeho zkoumání lze zavést jen jeden systém.",
 		"answer": false
 	},
-	{ "text": "Ovládání se liší od řízení absencí vlastní zpětné vazby", "answer": false },
-	{ "text": "Delegovat nelze odpovědnost", "answer": true },
+	{ "text": "Ovládání se liší od řízení absencí vlastní zpětné vazby.", "answer": false },
+	{ "text": "Delegovat nelze odpovědnost.", "answer": true },
 	{
 		"text": "Výhodou divizionálního typu řídící struktury je prosazování specializace.",
 		"answer": false
 	},
 	{
-		"text": "Ke vztahům mezi subsystémy organizačního systému patří nezávislost",
+		"text": "Ke vztahům mezi subsystémy organizačního systému patří nezávislost.",
 		"answer": false
 	},
-	{ "text": "Součet kompetencí tech. A říd subsystému je 0,399", "answer": true },
-	{ "text": "Spojování systémů v uzavřené vazbě je případem řízení", "answer": true },
-	{ "text": "K fázím procesu řízení patří vedení lidí", "answer": false },
+	{ "text": "Součet kompetencí tech. A říd subsystému je 0,399.", "answer": true },
+	{ "text": "Spojování systémů v uzavřené vazbě je případem řízení.", "answer": true },
+	{ "text": "K fázím procesu řízení patří vedení lidí.", "answer": false },
 	{
-		"text": "Součet kompetencí řídícího a materiálně energetického subsystému je 0,166",
+		"text": "Součet kompetencí řídícího a materiálně energetického subsystému je 0,166.",
 		"answer": false
 	},
-	{ "text": "K fázím procesu řízení patří ovlivňování", "answer": false },
+	{ "text": "K fázím procesu řízení patří ovlivňování.", "answer": false },
 	{
-		"text": "Rozmístění přímo podřízených pracovníků není faktorem ovlivňující velikost řídící kapacity",
+		"text": "Rozmístění přímo podřízených pracovníků není faktorem ovlivňující velikost řídící kapacity.",
 		"answer": false
 	},
-	{ "text": "Každé schéma informačního působení obsahuje přímou zpětnou vazbu", "answer": false },
+	{ "text": "Každé schéma informačního působení obsahuje přímou zpětnou vazbu.", "answer": false },
 	{
-		"text": "Řídící prvky podle zpracování informace: disjunktivní (krát), konjunktivní (plus)",
+		"text": "Řídící prvky podle zpracování informace: disjunktivní (krát), konjunktivní (plus).",
 		"answer": false
 	},
 	{ "text": "Transformace probíhá i mezi vstupy do systému.", "answer": true },
-	{ "text": "Výrobní podnik je systémem relativním a relativně izolovaným", "answer": false },
-	{ "text": "Integrace subsystémů sleduje udržování jejich proporcionality", "answer": false },
-	{ "text": "Výrobní podnik je systémem relativně izolovaným a složitým", "answer": true },
-	{ "text": "Rozlišovací úroveň určuje podrobnost zkoumání systému", "answer": true },
+	{ "text": "Výrobní podnik je systémem relativním a relativně izolovaným.", "answer": false },
+	{ "text": "Integrace subsystémů sleduje udržování jejich proporcionality.", "answer": false },
+	{ "text": "Výrobní podnik je systémem relativně izolovaným a složitým.", "answer": true },
+	{ "text": "Rozlišovací úroveň určuje podrobnost zkoumání systému.", "answer": true },
 	{
-		"text": "Pravděpodobnost přenosu řídící informace klesá s rostoucím počtem prvků v jejich sériovém zapojení",
+		"text": "Pravděpodobnost přenosu řídící informace klesá s rostoucím počtem prvků v jejich sériovém zapojení.",
 		"answer": true
 	},
-	{ "text": "Chování je případem činnosti systému", "answer": true },
+	{ "text": "Chování je případem činnosti systému.", "answer": true },
 	{
-		"text": "Ovládání se od řízení liší v charakteru u řídícího a ovládajícího systému",
+		"text": "Ovládání se od řízení liší v charakteru u řídícího a ovládajícího systému.",
 		"answer": false
 	},
 	{
-		"text": "Manažer je z hlediska přenosu informace prvkem paralelně přidělujícím",
+		"text": "Manažer je z hlediska přenosu informace prvkem paralelně přidělujícím.",
 		"answer": true
 	},
-	{ "text": "Systém 1. řádu vykazuje nejmenší míru rozlišení", "answer": true },
+	{ "text": "Systém 1. řádu vykazuje nejmenší míru rozlišení.", "answer": true },
 	{
-		"text": "Je-li expanzivnost člena skupiny 0,32 a jeho status 0,35, jde o marginální členství",
+		"text": "Je-li expanzivnost člena skupiny 0,32 a jeho status 0,35, jde o marginální členství.",
 		"answer": false
 	},
-	{ "text": "Změnou trajektorie změníme chování systému", "answer": true },
+	{ "text": "Změnou trajektorie změníme chování systému.", "answer": true },
 	{
-		"text": "Ukazatel koheze patří ke skupinovým ukazatelům úrovně neformálních vztahů",
+		"text": "Ukazatel koheze patří ke skupinovým ukazatelům úrovně neformálních vztahů.",
 		"answer": true
 	},
 	{
 		"text": "Prvky organizačního subsystému tvoří pouze lidé a informační vazby.",
 		"answer": false
 	},
-	{ "text": "K metodám kybernetiky patří metoda analogie a metoda indukce", "answer": false },
-	{ "text": "Řídící subsystém je definován největší kompetencí a stabilitou", "answer": false },
-	{ "text": "Každý reálný systém je zároveň relativně izolovaný", "answer": true },
-	{ "text": "Systém je abstrakcí objektu", "answer": true },
+	{ "text": "K metodám kybernetiky patří metoda analogie a metoda indukce.", "answer": false },
+	{ "text": "Řídící subsystém je definován největší kompetencí a stabilitou.", "answer": false },
+	{ "text": "Každý reálný systém je zároveň relativně izolovaný.", "answer": true },
+	{ "text": "Systém je abstrakcí objektu.", "answer": true },
 	{
-		"text": "Vždy lze provést tolik mocnin, kolik je prvků transformace systému",
+		"text": "Vždy lze provést tolik mocnin, kolik je prvků transformace systému.",
 		"answer": true
 	},
-	{ "text": "Řídící pracovník je zálohovým prvkem nezatížené zálohy", "answer": false },
-	{ "text": "Zemědělský podnik je systémem adaptivním a otevřeným", "answer": false },
-	{ "text": "Výhodou odvětvové organizační struktury je možnost specializace", "answer": true },
-	{ "text": "Homomorfní vztah vyjadřuje shodu mezi dvěma objekty", "answer": false },
+	{ "text": "Řídící pracovník je zálohovým prvkem nezatížené zálohy.", "answer": false },
+	{ "text": "Zemědělský podnik je systémem adaptivním a otevřeným.", "answer": false },
+	{ "text": "Výhodou odvětvové organizační struktury je možnost specializace.", "answer": true },
+	{ "text": "Homomorfní vztah vyjadřuje shodu mezi dvěma objekty.", "answer": false },
 	{
 		"text": "Ke spojení systémů lze dojít pouze tehdy, jsou-li systémy stejně zapsány.",
 		"answer": false
 	},
 	{
-		"text": "Řídící subsystém má třetinovou kompetenci organizačního systému a nejmenší stabilitu",
+		"text": "Řídící subsystém má třetinovou kompetenci organizačního systému a nejmenší stabilitu.",
 		"answer": true
 	},
 	{ "text": "K transformaci dochází mezi vstupem a výstupem systému.", "answer": true },
 	{
-		"text": "Podle zpracování informace rozlišujeme řídící prvky disjunktivní a konjunktivní",
+		"text": "Podle zpracování informace rozlišujeme řídící prvky disjunktivní a konjunktivní.",
 		"answer": true
 	},
 	{ "text": "Pořadí vstupů do systémů a výstupů z něj definuje repertoár.", "answer": false },
-	{ "text": "Kompetence organizačního systému je 0,111", "answer": false },
+	{ "text": "Kompetence organizačního systému je 0,111.", "answer": false },
 	{
-		"text": "Řídící prvky organizačního systému lze charakterizovat podle práce s informacemi",
+		"text": "Řídící prvky organizačního systému lze charakterizovat podle práce s informacemi.",
 		"answer": true
 	},
-	{ "text": "Repertoár může nabývat různých trajektorií", "answer": true },
+	{ "text": "Repertoár může nabývat různých trajektorií.", "answer": true },
 	{ "text": "Mezi cílem řízení a cílem regulace není žádný rozdíl.", "answer": false },
 	{
-		"text": "Organizační systém ke vztahům mezi subsystémy patří vztah proporcionality",
+		"text": "Organizační systém ke vztahům mezi subsystémy patří vztah proporcionality.",
 		"answer": false
 	},
-	{ "text": "Kvalita řídící informace je dána její schopností snížit entropii", "answer": true },
+	{ "text": "Kvalita řídící informace je dána její schopností snížit entropii.", "answer": true },
 	{
-		"text": "Měřitelné složky kvalifikace je nutno hodnotit v souvislosti s pracovní pozicí",
+		"text": "Měřitelné složky kvalifikace je nutno hodnotit v souvislosti s pracovní pozicí.",
 		"answer": true
 	},
 	{
@@ -553,12 +553,12 @@
 	},
 	{ "text": "K dílčím rolím manažera patří také role tzv. figurky.", "answer": true },
 	{ "text": "Maticová řídící struktura je vhodná pro řízení projektů.", "answer": true },
-	{ "text": "Míra volnosti v rozhodování vrcholového pracovníka se blíží 100%", "answer": false },
+	{ "text": "Míra volnosti v rozhodování vrcholového pracovníka se blíží 100%.", "answer": false },
 	{ "text": "K otázkám delegování patří také, zda delegaci přijmout.", "answer": true },
 	{ "text": "Participace není způsobem vedení lidí.", "answer": false },
 	{ "text": "K prvkům rozhodovacího procesu patří také podmínky rozhodování.", "answer": true },
 	{
-		"text": "Typ členství v pracovní skupině určíme podle porovnání ukazatelů: status a expanzivnost",
+		"text": "Typ členství v pracovní skupině určíme podle porovnání ukazatelů: status a expanzivnost.",
 		"answer": true
 	},
 	{
