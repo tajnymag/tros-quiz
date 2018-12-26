@@ -287,7 +287,7 @@
 	{ "text": "Organizační systém má třetinovou kompetenci subsystému řídícího.", "answer": true },
 	{
 		"text": "Hmotné vztahy mezi člověkem a výrobním prostředkem vymezuje koherentně pracovní systém.",
-		"answer": true
+		"answer": false
 	},
 	{ "text": "Průměrná řídící kapacita je 2,5.", "answer": false },
 	{ "text": "Útvarová kompozice o.s. určuje 3, procesní 9 subsystémů.", "answer": false },
