@@ -89,7 +89,7 @@
 	{ "text": "Nejmenší organizační jednotkou není jeden pracovník.", "answer": true },
 	{
 		"text": "Prověřování složení pracovní skupiny je záležitostí operativního řízení.",
-		"answer": null
+		"answer": true
 	},
 	{ "text": "Technický subsystém má větší stabilitu než řídící.", "answer": true },
 	{ "text": "Varieta je množinou stavů systému, jeho transformací, chování.", "answer": true },
@@ -263,7 +263,7 @@
 	},
 	{
 		"text": "Prověřování vhodného složení pracovní skupiny je záležitost plánování.",
-		"answer": null
+		"answer": false
 	},
 	{
 		"text": "Procesní dekompozici organizačního systému podle vazeb a prvků vymezuje dvanáct subsystémů.",
