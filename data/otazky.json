@@ -613,7 +613,6 @@
 		"answer": true
 	},
 	{ "text": "Základní rozdělení stylů řízení je na liberální a byrokratický.", "answer": false },
-	{ "text": "Motivace je nejefektnějším způsobem vedení lidí.", "answer": true },
 	{ "text": "Kontrola kontrolního procesu je duplicitou.", "answer": false },
 	{
 		"text": "Manažeři vyšší úrovně řízení pracují především s externími informacemi.",
@@ -625,7 +624,7 @@
 		"text": "Práce s informacemi je stádiem procesu řízení ve všech jeho fázích.",
 		"answer": true
 	},
-	{ "text": "Motivace je nejefektivnějším způsobem vedení lidí.", "answer": false },
+	{ "text": "Motivace je nejefektivnějším způsobem vedení lidí.", "answer": true },
 	{ "text": "K fázím procesu řízení se řadí i delegování.", "answer": true },
 	{ "text": "Informace se týká všech fází procesu řízení.", "answer": true },
 	{
