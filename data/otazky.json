@@ -34,7 +34,7 @@
 	},
 	{ "text": "Změna trajektorie změní činnost systému.", "answer": true },
 	{ "text": "Ke stádiím cyklu řízení nepatří rozhodování.", "answer": false },
-	{ "text": "Procesní dekompozici tvoří pracovní, organizační a řídící procesy.", "answer": null },
+	{ "text": "Procesní dekompozici tvoří pracovní, organizační a řídící procesy.", "answer": false },
 	{
 		"text": "Štábní řídící pracovníci jsou zařazeni v divizionálním typu řídící struktury.",
 		"answer": true
