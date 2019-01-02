@@ -1,5 +1,6 @@
 <template>
 	<div class="card text-center">
+		<div class="card-subitle">Správně: {{counter.correct}}, Špatně: {{counter.mistake}}</div>
 		<div class="card-header">
 			<div class="progress">
 				<div
@@ -61,6 +62,10 @@ export default Vue.extend({
 				text: 'Načítám...',
 				answer: null
 			},
+			counter: {
+				correct: 0,
+				mistake: 0
+			},
 			correct: false,
 			mistake: false,
 			unknown: false,
@@ -74,12 +79,21 @@ export default Vue.extend({
 		}
 	},
 	mounted() {
-		if (localStorage.getItem('answeredQuestions')) {
-			const serializedMap = localStorage.getItem('answeredQuestions');
-			this.questionSet = new QuestionSet(deserializeMap(serializedMap));
+		const serializedAnswers = localStorage.getItem('answeredQuestions');
+		const serializedCounter = localStorage.getItem('rightWrong');
+
+		if (serializedAnswers) {
+			this.questionSet = new QuestionSet(deserializeMap(serializedAnswers));
 		} else {
 			this.questionSet = new QuestionSet();
 		}
+
+		if (serializedCounter) {
+			const counter = JSON.parse(serializedCounter);
+			this.counter.correct = counter.correct;
+			this.counter.mistake = counter.mistake;
+		}
+
 		this.currentQuestion = this.questionSet.getRandomUnanswered();
 		this.updateProgress();
 	},
@@ -97,14 +111,17 @@ export default Vue.extend({
 				this.unknown = true;
 			} else if (answeredCorrectly) {
 				this.correct = true;
+				this.counter.correct++;
 			} else {
 				this.mistake = true;
+				this.counter.mistake++;
 			}
 			this.questionSet.setAnswered(
 				this.currentQuestion,
 				this.unknown ? false : answeredCorrectly
 			);
 			localStorage.setItem('answeredQuestions', this.questionSet.getSerializedAnswered());
+			localStorage.setItem('rightWrong', JSON.stringify(this.counter));
 			this.updateProgress();
 		},
 		updateProgress() {
@@ -121,7 +138,7 @@ export default Vue.extend({
 
 <style scoped>
 .card {
-	margin: auto;
 	max-width: 50rem;
+	margin: auto;
 }
 </style>

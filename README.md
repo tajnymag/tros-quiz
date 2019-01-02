@@ -9,3 +9,8 @@ Tato webová aplikace vám umožňuje si procvičit otázky z Teorie řízení n
 * ukazatel postupu skrz otázky
 * rekurence špatně zodpovězených otázek
 * plně responzivní design
+
+## TODO
+* ~~přidat číselník~~
+* přepsat pomocí bootstrap-vue
+* refaktorovat spagethi (vpodstatě celý Quiz.vue)

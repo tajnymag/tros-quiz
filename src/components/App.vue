@@ -1,8 +1,10 @@
 <template>
 	<div id="app">
+		<nav class="navbar fuxed.top navbar-light bg-light">
+			<a class="navbar-brand" href="#">Cvičebnice TŘOS</a>
+		</nav>
 		<quiz></quiz>
 		<nav class="navbar fixed-bottom navbar-light bg-light">
-			<a class="navbar-brand" href="#">Cvičebnice TŘOS</a>
 			<a class="btn btn-danger" href="mailto:xlukm014@studenti.czu.cz">Našel jsem chybu</a>
 			<b-dropdown text="Nástroje">
 				<b-dropdown-item @click="resetSavedAnswers">
@@ -32,6 +34,7 @@ export default {
 	methods: {
 		resetSavedAnswers(): void {
 			localStorage.removeItem('answeredQuestions');
+			localStorage.removeItem('rightWrong');
 			location.reload();
 		},
 		downloadCSVFile() {
@@ -44,5 +47,3 @@ export default {
 	}
 };
 </script>
-
-<style scoped></style>
