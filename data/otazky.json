@@ -178,7 +178,7 @@
 		"text": "Procesní dekompozice organizačního systému vymezuje řídící proces.",
 		"answer": false
 	},
-	{ "text": "Regulace patří k tipům informačního působení.", "answer": true },
+	{ "text": "Regulace patří k typům informačního působení.", "answer": true },
 	{
 		"text": "Sériový řídící prvek je ke svému zálohovému prvku ve vztahu disjunkce.",
 		"answer": true
