@@ -379,7 +379,6 @@
 		"text": "Jednoznačná transformace má v řádku operandů minimálně 2 stejné stavy.",
 		"answer": true
 	},
-	{ "text": "V útvarové i procesní dekompozici jsou různé subsystémy.", "answer": false },
 	{
 		"text": "Objektivním faktorem velikosti řídící kapacity je podobnost řízených funkcí.",
 		"answer": null
