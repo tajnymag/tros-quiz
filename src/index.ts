@@ -1,10 +1,10 @@
 import Vue from 'vue';
 
 //@ts-ignore
-import { Dropdown } from 'bootstrap-vue/es/components';
+import { DropdownPlugin } from 'bootstrap-vue';
 import App from './components/App.vue';
 
-Vue.use(Dropdown);
+Vue.use(DropdownPlugin);
 
 const app = new Vue({
 	el: 'app',
